@@ -71,5 +71,6 @@
 	<classpathentry kind="lib" path="libs/spring-websocket-5.1.2.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="libs/spring-websocket-5.1.2.RELEASE.jar"/>
 	<classpathentry kind="src" path="02-spring-ioc"/>
+	<classpathentry kind="src" path="03-spring-dependency-injection"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
